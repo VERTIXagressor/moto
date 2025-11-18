@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+
+body {
+font-family: 'Oswald';
+background-color: whitesmoke;
+}
+
+.card {
+position: absolute;
+margin-left: 100px;
+margin-top: 160px;
+border: 3px solid white;
+border-radius: 40px;
+}
+
+button {
+    width: 250px;
+    height: 100px;
+background-color: white;
+position: absolute;
+left: 900px;
+top: 450px;
+border: white;
+border-radius: 15px;
+font-size: 40px;
+}
+
+h1 {
+    position: absolute;
+left: 900px;
+top: 160px;
+
+}
+
+p {
+position: absolute;
+left: 900px;
+top: 220px;
+font-size: 20px;
+}
+
+h2 {
+font-size: 70px;
+position: absolute;
+top: 700px;
+
+}
+.charac {
+    position: absolute;
+top: 900px;
+
+}
+
+.price {
+position: absolute;
+left: 915px;
+top: 385px;
+font-size: 30px;
+}

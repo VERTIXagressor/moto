@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+
+body {
+background-image: url("images/imgonline-com-ua-Blur-R5KOOIdRWRuwlbAq.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+ font-family: "Oswald", sans-serif;
+}
+
+.textt {
+position: relative;
+display: inline;
+top: 400px;
+left: 200px;
+font-size: 60px;
+}
+
+
+
+button {
+background-color: transparent;
+border: none;
+font-size: 40px;
+ font-family: "Oswald", sans-serif;
+ cursor: pointer;
+  transition: 0.3s;
+}
+button:hover {
+text-shadow: 5px 5px 5px;
+
+}
+
+
+
+.yamaha {
+display: inline;
+color: blue;
+}
+
+.motos {
+display: flex;
+justify-content: space-around;
+
+}
+.rockk {
+font-size: xx-small;
+position: absolute;
+top: 670px;
+color: gray;
+}
+
+
+
+
+
+
+
+
